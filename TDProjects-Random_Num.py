@@ -40,7 +40,3 @@ while True:
         tally += 1
         print("It is lower!")
         continue
-
-print("There")
-
-print("This")
